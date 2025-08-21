@@ -6,9 +6,6 @@ Estudante de Análise e Desenvolvimento de Sistemas no 5º semestre na Uninove.
 Apaixonada por tecnologia e sempre em busca de novos desafios para aprimorar minhas habilidades em programação e desenvolvimento de software.
 Vamos conectar e construir algo incrível juntos! ✨
 
-## 🌐 Socials:
-[![Linkedin]<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg")](https://instagram.com/_manuzini) 
-           
 
 ### 🤖 Linguagens e Tecnologia
 
