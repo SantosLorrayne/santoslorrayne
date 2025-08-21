@@ -7,7 +7,7 @@ Apaixonada por tecnologia e sempre em busca de novos desafios para aprimorar min
 Vamos conectar e construir algo incrível juntos! ✨
 
 ## 🌐 Socials:
-[![Linkedin]<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"](https://instagram.com/)/>
+[![Linkedin]<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"(https://instagram.com/)/>
            
 
 ### 🤖 Linguagens e Tecnologia
